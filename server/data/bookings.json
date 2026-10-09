@@ -1,0 +1,129 @@
+[
+  {
+    "reference": "GP-KC5DR6",
+    "status": "confirmed",
+    "typeId": "video",
+    "typeName": "Video consultation",
+    "durationMins": 15,
+    "gpId": "dr-evans",
+    "gpName": "Dr Tom Evans",
+    "date": "2026-10-16",
+    "time": "12:45",
+    "band": "standard",
+    "bandLabel": "Weekday",
+    "price": 55,
+    "patient": {
+      "name": "Mohammad Sami",
+      "email": "samisust10@gmail.com",
+      "phone": "07411799628"
+    },
+    "notes": "regular checkup",
+    "createdAt": "2026-10-05T17:22:18.887Z"
+  },
+  {
+    "reference": "GP-TVLB2P",
+    "status": "confirmed",
+    "typeId": "standard",
+    "typeName": "Standard consultation",
+    "durationMins": 15,
+    "gpId": "dr-okafor",
+    "gpName": "Dr Grace Okafor",
+    "date": "2026-10-18",
+    "time": "10:30",
+    "band": "weekend",
+    "bandLabel": "Weekend",
+    "price": 98,
+    "patient": {
+      "name": "mohammad",
+      "email": "example@gmail.com",
+      "phone": "07114438990"
+    },
+    "notes": "",
+    "createdAt": "2026-10-07T21:59:28.643Z"
+  },
+  {
+    "reference": "GP-NBNVC5",
+    "status": "confirmed",
+    "typeId": "standard",
+    "typeName": "Standard consultation",
+    "durationMins": 15,
+    "gpId": "dr-okafor",
+    "gpName": "Dr Grace Okafor",
+    "date": "2026-10-11",
+    "time": "10:30",
+    "band": "weekend",
+    "bandLabel": "Weekend",
+    "price": 98,
+    "patient": {
+      "name": "jabin",
+      "email": "jabin@gmail.com",
+      "phone": "071111111111"
+    },
+    "notes": "",
+    "createdAt": "2026-10-07T22:01:19.631Z"
+  },
+  {
+    "reference": "GP-8FHJ6X",
+    "status": "cancelled",
+    "typeId": "video",
+    "typeName": "Video consultation",
+    "durationMins": 15,
+    "gpId": "dr-evans",
+    "gpName": "Dr Tom Evans",
+    "date": "2026-10-18",
+    "time": "13:45",
+    "band": "weekend",
+    "bandLabel": "Weekend",
+    "price": 77,
+    "patient": {
+      "name": "abcd",
+      "email": "avc@gmail.com",
+      "phone": "071111111111111"
+    },
+    "notes": "",
+    "createdAt": "2026-10-07T22:07:17.969Z",
+    "cancelledAt": "2026-10-07T22:09:11.766Z"
+  },
+  {
+    "reference": "GP-VPZRRN",
+    "status": "confirmed",
+    "typeId": "extended",
+    "typeName": "Extended consultation",
+    "durationMins": 30,
+    "gpId": "dr-okafor",
+    "gpName": "Dr Grace Okafor",
+    "date": "2026-10-22",
+    "time": "17:30",
+    "band": "standard",
+    "bandLabel": "Weekday",
+    "price": 120,
+    "patient": {
+      "name": "amvd",
+      "email": "example@gmail.com",
+      "phone": "0741179962"
+    },
+    "notes": "",
+    "createdAt": "2026-10-09T20:35:54.288Z"
+  },
+  {
+    "reference": "GP-KCKKC6",
+    "status": "confirmed",
+    "typeId": "standard",
+    "typeName": "Standard consultation",
+    "durationMins": 15,
+    "gpId": "dr-khan",
+    "gpName": "Dr Aisha Khan",
+    "date": "2026-10-10",
+    "time": "09:30",
+    "band": "weekend",
+    "bandLabel": "Weekend",
+    "price": 98,
+    "patient": {
+      "name": "amxdd",
+      "email": "example@gmail.com",
+      "phone": "07387831492"
+    },
+    "notes": "",
+    "createdAt": "2026-10-09T20:42:52.774Z"
+  }
+]
